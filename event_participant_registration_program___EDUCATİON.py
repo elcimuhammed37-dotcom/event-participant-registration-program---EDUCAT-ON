@@ -12,8 +12,6 @@ fullName=f"{firstName} {lastName}"
 
 contactNumber=contactNumber.replace(" ","")
 
-print("Congratulations ! your registration was successful")
-print(f"Welcome {fullName}! saved contact number : {contactNumber}")
 
 
 
